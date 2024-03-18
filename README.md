@@ -3,7 +3,7 @@
 - ❤️ Sentiment analysis has been a field of expertise for musicianas for centuries
 - 🌱 I’m currently learning data science 😎
 - ⚡ Fun fact: there is no fun fact
-- Currently studying ds while taking care of my little son ❤️ 👶🏻
+- Currently studying ML while taking care of my little son ❤️ 👶🏻
 
 <!---
 macodebcn/macodebcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
