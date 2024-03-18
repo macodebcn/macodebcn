@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @macodebcn
-- 👀 I’m interested in data science
+- 👀 I’m interested in the application of machine learning in the field of music
+- ❤️ Sentiment analysis has been a field of expertise for musicianas for centuries
 - 🌱 I’m currently learning data science 😎
 - ⚡ Fun fact: there is no fun fact
 - Currently studying ds while taking care of my little son ❤️
