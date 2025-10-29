@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning data science 😎
 - ⚡ Fun fact: there is no fun fact
 - Currently studying ML while taking care of my little son ❤️ 👶🏻
-
-No code!!, only an introduction about myself!! 
+- No code!!, only an introduction about myself!! 
 
 <!---
 macodebcn/macodebcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
